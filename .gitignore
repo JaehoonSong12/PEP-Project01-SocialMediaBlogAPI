@@ -6255,3 +6255,8 @@ Backup_*
 __pycache__/
 *.py[cod]
 
+
+
+
+
+!/sys_doc.pdf
